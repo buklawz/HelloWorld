@@ -1,0 +1,6 @@
+H:\University Doc\Coding\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe.config
+H:\University Doc\Coding\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe
+H:\University Doc\Coding\Hello World\Hello World\Hello World\bin\Debug\Hello World.pdb
+H:\University Doc\Coding\Hello World\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\Hello World\Hello World\Hello World\obj\Debug\Hello World.exe
+H:\University Doc\Coding\Hello World\Hello World\Hello World\obj\Debug\Hello World.pdb
