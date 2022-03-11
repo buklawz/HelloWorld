@@ -38,4 +38,4 @@ steps:
     azureSubscription: 'AZ-Learn(1)(3efa1285-6cca-4585-8a51-4cb7579d3a0b)'
     appType: 'webApp'
     WebAppName: 'azure-pipeline-demo'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
